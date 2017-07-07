@@ -2,6 +2,12 @@
 
 this is a project find on https://javascriptrocks.wordpress.com/2016/06/04/express-with-angular-cli-in-5-minutes/ and a little bit modified to permit a server side modification, to, for example add mongojs.
 
+
+to use it, you need to build it (ng build) and then copy the app.js into the dist folder.
+
+And then just launch : node dist/app.js
+
+
 # PROJECT
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.3.
